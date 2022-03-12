@@ -1,0 +1,896 @@
+
+Tuesday, 30 June 2015
+
+13:13: Running NanoCore version 1.2.2.0
+13:13: Reading server settings from 'settings.bin'..
+13:13: 
+13:13: Server Exception (LoadSettings):
+13:13: No se pudo encontrar el archivo 'K:\Computer\En\Nanocore\Nanocore 1.2.2.0_Release_NoNetSeal\NanoCore 1.2.2.0_NoNetSeal\NanoCore 1.2.2.0_NoNetSeal\settings.bin'.    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.ReadAllBytes(String path)
+   at EfjrVeSuRKWLdvmMaZ.WUWrHiOerRvYqTGdsj.hCwcM9ghVJXeYqf16RL(Object )
+   at EfjrVeSuRKWLdvmMaZ.WUWrHiOerRvYqTGdsj.ksc0EKXrRx(Object  )
+13:13: 
+13:13: Reading server settings from 'settings.bak'..
+13:13: 
+13:13: Server Exception (LoadSettings):
+13:13: No se pudo encontrar el archivo 'K:\Computer\En\Nanocore\Nanocore 1.2.2.0_Release_NoNetSeal\NanoCore 1.2.2.0_NoNetSeal\NanoCore 1.2.2.0_NoNetSeal\settings.bak'.    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.ReadAllBytes(String path)
+   at EfjrVeSuRKWLdvmMaZ.WUWrHiOerRvYqTGdsj.hCwcM9ghVJXeYqf16RL(Object )
+   at EfjrVeSuRKWLdvmMaZ.WUWrHiOerRvYqTGdsj.ksc0EKXrRx(Object  )
+13:13: 
+13:13: Loading plugin catalog..
+13:13: Failed to open plugin at 'Plugins\AIO.ncp'.
+13:13: Plugin format is obsolete and could not be loaded.    en spvxnb9zhFIg7I4Wp0D.mnXqtm9uPXAlSmHWuox.p4mMPD7k8N(String  )
+13:13: Found plugin 'Core Plugin' v1.0.0.10 at 'Plugins\CorePlugin.ncp'..
+13:13: Found plugin 'Dynamic Update Client' v2.5.0.0 at 'Plugins\DucPlugin.ncp'..
+13:13: Found plugin 'Management Plugin' v1.0.3.1 at 'Plugins\ManagementPlugin.ncp'..
+13:13: Found plugin 'Misc Tools' v1.0.0.0 at 'Plugins\MiscTools.ncp'..
+13:13: Found plugin 'MultiCore' v1.0.0.0 at 'Plugins\MultiCore.ncp'..
+13:13: Failed to open plugin at 'Plugins\NanoBlack.ncp'.
+13:13: Plugin format is obsolete and could not be loaded.    en spvxnb9zhFIg7I4Wp0D.mnXqtm9uPXAlSmHWuox.p4mMPD7k8N(String  )
+13:13: Found plugin 'NanoBrowser' v1.3.0.0 at 'Plugins\NanoBrowser.ncp'..
+13:13: Found plugin 'NanoCoreSwiss' v1.0.0.0 at 'Plugins\NanoCoreSwiss.ncp'..
+13:13: Found plugin 'NanoNana' v1.0.0.0 at 'Plugins\NanoNana.ncp'..
+13:13: Found plugin 'NanoProtect (Leumonic's Mod)' v2.0.0.0 at 'Plugins\NanoProtectPlugin.ncp'..
+13:13: Found plugin 'NanoStress' v1.0.0.0 at 'Plugins\NanoStress.ncp'..
+13:13: Found plugin 'Network Plugin' v1.0.2.0 at 'Plugins\NetworkPlugin.ncp'..
+13:13: Found plugin 'Security Plugin' v1.0.0.0 at 'Plugins\SecurityPlugin.ncp'..
+13:13: Found plugin 'SurveillanceEx Plugin' v1.0.1.7 at 'Plugins\SurveillanceExPlugin.ncp'..
+13:13: Found plugin 'Surveillance Plugin' v1.0.3.0 at 'Plugins\SurveillancePlugin.ncp'..
+13:13: Found plugin 'Tools Plugin' v1.0.0.5 at 'Plugins\ToolsPlugin.ncp'..
+13:13: Failed to open plugin at 'Plugins\VisibleMode1.1.ncp'.
+13:13: Plugin format is obsolete and could not be loaded.    en spvxnb9zhFIg7I4Wp0D.mnXqtm9uPXAlSmHWuox.p4mMPD7k8N(String  )
+13:13: Establishing connection to exchange server..
+13:13: Connected to exchange server.
+13:13: Loading plugin 'Core Plugin' (d4466edc-d84f-f2d0-8dce-eb4345fd8569)..
+13:13: Loading plugin 'Dynamic Update Client' (f90ca46e-2b44-0e3f-d59d-0e71a0ff94a4)..
+13:13: [Dynamic Update Client]: Downloading plugin essentials..
+13:13: [Dynamic Update Client]: Essentials downloaded.
+13:13: [Dynamic Update Client]: Loading client files..
+13:13: [Dynamic Update Client]: Client files loaded successfully!
+13:13: Loading plugin 'Management Plugin' (8e554d9c-a2bd-1b48-e703-c5704de5a7d8)..
+13:13: Loading plugin 'Misc Tools' (d0aba983-d188-e5d9-03fa-ea3df4ea994d)..
+13:13: Loading plugin 'MultiCore' (e3b59f0e-5da9-5656-50ca-3a9c01162011)..
+13:13: Loading plugin 'NanoBrowser' (94caa1be-766d-6a44-a7be-3d14688fc136)..
+13:13: Loading plugin 'NanoCoreSwiss' (46dba22e-b7d5-7204-7d2c-b8de9e767095)..
+13:13: Loading plugin 'NanoNana' (bb1cf52d-d82c-72d9-c259-5c1cb3155589)..
+13:13: Loading plugin 'NanoStress' (a42871f1-7588-a24a-6543-93866f7d582d)..
+13:13: Loading plugin 'Network Plugin' (00592cb9-e09a-3d31-3c36-119998044e3d)..
+13:13: Starting NAT device discovery..
+13:13: Loading plugin 'Security Plugin' (5ff5348d-4be5-ff14-57a4-ee5f523ee6b3)..
+13:13: Loading plugin 'SurveillanceEx Plugin' (2441ccc7-e521-6225-4a86-bbbd0ea9b98f)..
+13:13: Loading plugin 'Surveillance Plugin' (c0ef879c-365c-dde4-7b37-20a8972cbbfb)..
+13:13: Loading plugin 'Tools Plugin' (83d05a36-970f-6690-ed4b-27b89b03c077)..
+13:13: Writing server settings..
+13:13: WindowState = Normal
+13:13: WindowBounds = {X=75,Y=75,Width=703,Height=525}
+
+Tuesday, 30 June 2015
+
+13:14: Running NanoCore version 1.2.2.0
+13:14: Reading server settings from 'settings.bin'..
+13:14: WindowState = 0
+13:14: WindowBounds = {X=75,Y=75,Width=703,Height=525}
+13:14: Loading plugin catalog..
+13:14: Failed to open plugin at 'Plugins\AIO.ncp'.
+13:14: Plugin format is obsolete and could not be loaded.    en spvxnb9zhFIg7I4Wp0D.mnXqtm9uPXAlSmHWuox.p4mMPD7k8N(String  )
+13:14: Found plugin 'Core Plugin' v1.0.0.10 at 'Plugins\CorePlugin.ncp'..
+13:14: Found plugin 'Dynamic Update Client' v2.5.0.0 at 'Plugins\DucPlugin.ncp'..
+13:14: Found plugin 'Management Plugin' v1.0.3.1 at 'Plugins\ManagementPlugin.ncp'..
+13:14: Found plugin 'Misc Tools' v1.0.0.0 at 'Plugins\MiscTools.ncp'..
+13:14: Found plugin 'MultiCore' v1.0.0.0 at 'Plugins\MultiCore.ncp'..
+13:14: Failed to open plugin at 'Plugins\NanoBlack.ncp'.
+13:14: Plugin format is obsolete and could not be loaded.    en spvxnb9zhFIg7I4Wp0D.mnXqtm9uPXAlSmHWuox.p4mMPD7k8N(String  )
+13:14: Found plugin 'NanoBrowser' v1.3.0.0 at 'Plugins\NanoBrowser.ncp'..
+13:14: Found plugin 'NanoCoreSwiss' v1.0.0.0 at 'Plugins\NanoCoreSwiss.ncp'..
+13:14: Found plugin 'NanoNana' v1.0.0.0 at 'Plugins\NanoNana.ncp'..
+13:14: Found plugin 'NanoProtect (Leumonic's Mod)' v2.0.0.0 at 'Plugins\NanoProtectPlugin.ncp'..
+13:14: Found plugin 'NanoStress' v1.0.0.0 at 'Plugins\NanoStress.ncp'..
+13:14: Found plugin 'Network Plugin' v1.0.2.0 at 'Plugins\NetworkPlugin.ncp'..
+13:14: Found plugin 'Security Plugin' v1.0.0.0 at 'Plugins\SecurityPlugin.ncp'..
+13:14: Found plugin 'SurveillanceEx Plugin' v1.0.1.7 at 'Plugins\SurveillanceExPlugin.ncp'..
+13:14: Found plugin 'Surveillance Plugin' v1.0.3.0 at 'Plugins\SurveillancePlugin.ncp'..
+13:14: Found plugin 'Tools Plugin' v1.0.0.5 at 'Plugins\ToolsPlugin.ncp'..
+13:14: Failed to open plugin at 'Plugins\VisibleMode1.1.ncp'.
+13:14: Plugin format is obsolete and could not be loaded.    en spvxnb9zhFIg7I4Wp0D.mnXqtm9uPXAlSmHWuox.p4mMPD7k8N(String  )
+13:14: Establishing connection to exchange server..
+13:14: Connected to exchange server.
+13:14: Loading plugin 'Core Plugin' (d4466edc-d84f-f2d0-8dce-eb4345fd8569)..
+13:14: Loading plugin 'Dynamic Update Client' (f90ca46e-2b44-0e3f-d59d-0e71a0ff94a4)..
+13:14: [Dynamic Update Client]: Loading client files..
+13:14: [Dynamic Update Client]: Client files loaded successfully!
+13:14: Loading plugin 'Management Plugin' (8e554d9c-a2bd-1b48-e703-c5704de5a7d8)..
+13:14: Loading plugin 'Misc Tools' (d0aba983-d188-e5d9-03fa-ea3df4ea994d)..
+13:14: Loading plugin 'MultiCore' (e3b59f0e-5da9-5656-50ca-3a9c01162011)..
+13:14: Loading plugin 'NanoBrowser' (94caa1be-766d-6a44-a7be-3d14688fc136)..
+13:14: Loading plugin 'NanoCoreSwiss' (46dba22e-b7d5-7204-7d2c-b8de9e767095)..
+13:14: Loading plugin 'NanoNana' (bb1cf52d-d82c-72d9-c259-5c1cb3155589)..
+13:14: Loading plugin 'NanoStress' (a42871f1-7588-a24a-6543-93866f7d582d)..
+13:14: Loading plugin 'Network Plugin' (00592cb9-e09a-3d31-3c36-119998044e3d)..
+13:14: Starting NAT device discovery..
+13:14: Loading plugin 'Security Plugin' (5ff5348d-4be5-ff14-57a4-ee5f523ee6b3)..
+13:14: Loading plugin 'SurveillanceEx Plugin' (2441ccc7-e521-6225-4a86-bbbd0ea9b98f)..
+13:14: Loading plugin 'Surveillance Plugin' (c0ef879c-365c-dde4-7b37-20a8972cbbfb)..
+13:14: Loading plugin 'Tools Plugin' (83d05a36-970f-6690-ed4b-27b89b03c077)..
+13:14: Writing server settings..
+13:14: WindowState = Normal
+13:14: WindowBounds = {X=75,Y=75,Width=703,Height=525}
+
+Tuesday, 30 June 2015
+
+13:14: Running NanoCore version 1.2.2.0
+13:14: Reading server settings from 'settings.bin'..
+13:14: WindowState = 0
+13:14: WindowBounds = {X=75,Y=75,Width=703,Height=525}
+13:14: Loading plugin catalog..
+13:14: Failed to open plugin at 'Plugins\AIO.ncp'.
+13:14: Plugin format is obsolete and could not be loaded.    en C7VrwNPzmQV2JZ16VaZ.w0FfSJPlep6hqEpFdr5.axhMjRecAU(String  )
+13:14: Found plugin 'Core Plugin' v1.0.0.10 at 'Plugins\CorePlugin.ncp'..
+13:14: Found plugin 'Dynamic Update Client' v2.5.0.0 at 'Plugins\DucPlugin.ncp'..
+13:14: Found plugin 'Management Plugin' v1.0.3.1 at 'Plugins\ManagementPlugin.ncp'..
+13:14: Found plugin 'Misc Tools' v1.0.0.0 at 'Plugins\MiscTools.ncp'..
+13:14: Found plugin 'MultiCore' v1.0.0.0 at 'Plugins\MultiCore.ncp'..
+13:14: Failed to open plugin at 'Plugins\NanoBlack.ncp'.
+13:14: Plugin format is obsolete and could not be loaded.    en C7VrwNPzmQV2JZ16VaZ.w0FfSJPlep6hqEpFdr5.axhMjRecAU(String  )
+13:14: Found plugin 'NanoBrowser' v1.3.0.0 at 'Plugins\NanoBrowser.ncp'..
+13:14: Found plugin 'NanoCoreSwiss' v1.0.0.0 at 'Plugins\NanoCoreSwiss.ncp'..
+13:14: Found plugin 'NanoNana' v1.0.0.0 at 'Plugins\NanoNana.ncp'..
+13:14: Found plugin 'NanoProtect (Leumonic's Mod)' v2.0.0.0 at 'Plugins\NanoProtectPlugin.ncp'..
+13:14: Found plugin 'NanoStress' v1.0.0.0 at 'Plugins\NanoStress.ncp'..
+13:14: Found plugin 'Network Plugin' v1.0.2.0 at 'Plugins\NetworkPlugin.ncp'..
+13:14: Found plugin 'Security Plugin' v1.0.0.0 at 'Plugins\SecurityPlugin.ncp'..
+13:14: Found plugin 'SurveillanceEx Plugin' v1.0.1.7 at 'Plugins\SurveillanceExPlugin.ncp'..
+13:14: Found plugin 'Surveillance Plugin' v1.0.3.0 at 'Plugins\SurveillancePlugin.ncp'..
+13:14: Found plugin 'Tools Plugin' v1.0.0.5 at 'Plugins\ToolsPlugin.ncp'..
+13:14: Failed to open plugin at 'Plugins\VisibleMode1.1.ncp'.
+13:14: Plugin format is obsolete and could not be loaded.    en C7VrwNPzmQV2JZ16VaZ.w0FfSJPlep6hqEpFdr5.axhMjRecAU(String  )
+13:14: Establishing connection to exchange server..
+13:14: Connected to exchange server.
+13:14: Loading plugin 'Core Plugin' (d4466edc-d84f-f2d0-8dce-eb4345fd8569)..
+13:14: Loading plugin 'Dynamic Update Client' (f90ca46e-2b44-0e3f-d59d-0e71a0ff94a4)..
+13:14: [Dynamic Update Client]: Loading client files..
+13:14: [Dynamic Update Client]: Client files loaded successfully!
+13:14: Loading plugin 'Management Plugin' (8e554d9c-a2bd-1b48-e703-c5704de5a7d8)..
+13:14: Loading plugin 'Misc Tools' (d0aba983-d188-e5d9-03fa-ea3df4ea994d)..
+13:14: Loading plugin 'MultiCore' (e3b59f0e-5da9-5656-50ca-3a9c01162011)..
+13:14: Loading plugin 'NanoBrowser' (94caa1be-766d-6a44-a7be-3d14688fc136)..
+13:14: Loading plugin 'NanoCoreSwiss' (46dba22e-b7d5-7204-7d2c-b8de9e767095)..
+13:14: Loading plugin 'NanoNana' (bb1cf52d-d82c-72d9-c259-5c1cb3155589)..
+13:14: Loading plugin 'NanoStress' (a42871f1-7588-a24a-6543-93866f7d582d)..
+13:14: Loading plugin 'Network Plugin' (00592cb9-e09a-3d31-3c36-119998044e3d)..
+13:14: Starting NAT device discovery..
+13:14: Loading plugin 'Security Plugin' (5ff5348d-4be5-ff14-57a4-ee5f523ee6b3)..
+13:14: Loading plugin 'SurveillanceEx Plugin' (2441ccc7-e521-6225-4a86-bbbd0ea9b98f)..
+13:14: Loading plugin 'Surveillance Plugin' (c0ef879c-365c-dde4-7b37-20a8972cbbfb)..
+13:14: Loading plugin 'Tools Plugin' (83d05a36-970f-6690-ed4b-27b89b03c077)..
+13:14: Writing server settings..
+13:14: WindowState = Normal
+13:14: WindowBounds = {X=75,Y=75,Width=703,Height=525}
+
+Tuesday, 30 June 2015
+
+13:14: Running NanoCore version 1.2.2.0
+13:14: Reading server settings from 'settings.bin'..
+13:14: WindowState = 0
+13:14: WindowBounds = {X=75,Y=75,Width=703,Height=525}
+13:14: Loading plugin catalog..
+13:14: Failed to open plugin at 'Plugins\AIO.ncp'.
+13:14: Plugin format is obsolete and could not be loaded.    en C7VrwNPzmQV2JZ16VaZ.w0FfSJPlep6hqEpFdr5.axhMjRecAU(String  )
+13:14: Found plugin 'Core Plugin' v1.0.0.10 at 'Plugins\CorePlugin.ncp'..
+13:14: Found plugin 'Dynamic Update Client' v2.5.0.0 at 'Plugins\DucPlugin.ncp'..
+13:14: Found plugin 'Management Plugin' v1.0.3.1 at 'Plugins\ManagementPlugin.ncp'..
+13:14: Found plugin 'Misc Tools' v1.0.0.0 at 'Plugins\MiscTools.ncp'..
+13:14: Found plugin 'MultiCore' v1.0.0.0 at 'Plugins\MultiCore.ncp'..
+13:14: Failed to open plugin at 'Plugins\NanoBlack.ncp'.
+13:14: Plugin format is obsolete and could not be loaded.    en C7VrwNPzmQV2JZ16VaZ.w0FfSJPlep6hqEpFdr5.axhMjRecAU(String  )
+13:14: Found plugin 'NanoBrowser' v1.3.0.0 at 'Plugins\NanoBrowser.ncp'..
+13:14: Found plugin 'NanoCoreSwiss' v1.0.0.0 at 'Plugins\NanoCoreSwiss.ncp'..
+13:14: Found plugin 'NanoNana' v1.0.0.0 at 'Plugins\NanoNana.ncp'..
+13:14: Found plugin 'NanoProtect (Leumonic's Mod)' v2.0.0.0 at 'Plugins\NanoProtectPlugin.ncp'..
+13:14: Found plugin 'NanoStress' v1.0.0.0 at 'Plugins\NanoStress.ncp'..
+13:14: Found plugin 'Network Plugin' v1.0.2.0 at 'Plugins\NetworkPlugin.ncp'..
+13:14: Found plugin 'Security Plugin' v1.0.0.0 at 'Plugins\SecurityPlugin.ncp'..
+13:14: Found plugin 'SurveillanceEx Plugin' v1.0.1.7 at 'Plugins\SurveillanceExPlugin.ncp'..
+13:14: Found plugin 'Surveillance Plugin' v1.0.3.0 at 'Plugins\SurveillancePlugin.ncp'..
+13:14: Found plugin 'Tools Plugin' v1.0.0.5 at 'Plugins\ToolsPlugin.ncp'..
+13:14: Failed to open plugin at 'Plugins\VisibleMode1.1.ncp'.
+13:14: Plugin format is obsolete and could not be loaded.    en C7VrwNPzmQV2JZ16VaZ.w0FfSJPlep6hqEpFdr5.axhMjRecAU(String  )
+13:14: Establishing connection to exchange server..
+13:14: Connected to exchange server.
+13:14: Loading plugin 'Core Plugin' (d4466edc-d84f-f2d0-8dce-eb4345fd8569)..
+13:14: Loading plugin 'Dynamic Update Client' (f90ca46e-2b44-0e3f-d59d-0e71a0ff94a4)..
+13:14: [Dynamic Update Client]: Loading client files..
+13:14: [Dynamic Update Client]: Client files loaded successfully!
+13:14: Loading plugin 'Management Plugin' (8e554d9c-a2bd-1b48-e703-c5704de5a7d8)..
+13:14: Loading plugin 'Misc Tools' (d0aba983-d188-e5d9-03fa-ea3df4ea994d)..
+13:14: Loading plugin 'MultiCore' (e3b59f0e-5da9-5656-50ca-3a9c01162011)..
+13:14: Loading plugin 'NanoBrowser' (94caa1be-766d-6a44-a7be-3d14688fc136)..
+13:14: Loading plugin 'NanoCoreSwiss' (46dba22e-b7d5-7204-7d2c-b8de9e767095)..
+13:14: Loading plugin 'NanoNana' (bb1cf52d-d82c-72d9-c259-5c1cb3155589)..
+13:14: Loading plugin 'NanoStress' (a42871f1-7588-a24a-6543-93866f7d582d)..
+13:14: Loading plugin 'Network Plugin' (00592cb9-e09a-3d31-3c36-119998044e3d)..
+13:14: Starting NAT device discovery..
+13:14: Loading plugin 'Security Plugin' (5ff5348d-4be5-ff14-57a4-ee5f523ee6b3)..
+13:14: Loading plugin 'SurveillanceEx Plugin' (2441ccc7-e521-6225-4a86-bbbd0ea9b98f)..
+13:14: Loading plugin 'Surveillance Plugin' (c0ef879c-365c-dde4-7b37-20a8972cbbfb)..
+13:14: Loading plugin 'Tools Plugin' (83d05a36-970f-6690-ed4b-27b89b03c077)..
+13:14: Writing server settings..
+13:14: WindowState = Normal
+13:14: WindowBounds = {X=75,Y=75,Width=703,Height=525}
+
+Tuesday, 30 June 2015
+
+13:14: Running NanoCore version 1.2.2.0
+13:14: Reading server settings from 'settings.bin'..
+13:14: WindowState = 0
+13:14: WindowBounds = {X=75,Y=75,Width=703,Height=525}
+13:14: Loading plugin catalog..
+13:14: Failed to open plugin at 'Plugins\AIO.ncp'.
+13:14: Plugin format is obsolete and could not be loaded.    en C7VrwNPzmQV2JZ16VaZ.w0FfSJPlep6hqEpFdr5.axhMjRecAU(String  )
+13:14: Found plugin 'Core Plugin' v1.0.0.10 at 'Plugins\CorePlugin.ncp'..
+13:14: Found plugin 'Dynamic Update Client' v2.5.0.0 at 'Plugins\DucPlugin.ncp'..
+13:14: Found plugin 'Management Plugin' v1.0.3.1 at 'Plugins\ManagementPlugin.ncp'..
+13:14: Found plugin 'Misc Tools' v1.0.0.0 at 'Plugins\MiscTools.ncp'..
+13:14: Found plugin 'MultiCore' v1.0.0.0 at 'Plugins\MultiCore.ncp'..
+13:14: Failed to open plugin at 'Plugins\NanoBlack.ncp'.
+13:14: Plugin format is obsolete and could not be loaded.    en C7VrwNPzmQV2JZ16VaZ.w0FfSJPlep6hqEpFdr5.axhMjRecAU(String  )
+13:14: Found plugin 'NanoBrowser' v1.3.0.0 at 'Plugins\NanoBrowser.ncp'..
+13:14: Found plugin 'NanoCoreSwiss' v1.0.0.0 at 'Plugins\NanoCoreSwiss.ncp'..
+13:14: Found plugin 'NanoNana' v1.0.0.0 at 'Plugins\NanoNana.ncp'..
+13:14: Found plugin 'NanoProtect (Leumonic's Mod)' v2.0.0.0 at 'Plugins\NanoProtectPlugin.ncp'..
+13:14: Found plugin 'NanoStress' v1.0.0.0 at 'Plugins\NanoStress.ncp'..
+13:14: Found plugin 'Network Plugin' v1.0.2.0 at 'Plugins\NetworkPlugin.ncp'..
+13:14: Found plugin 'Security Plugin' v1.0.0.0 at 'Plugins\SecurityPlugin.ncp'..
+13:14: Found plugin 'SurveillanceEx Plugin' v1.0.1.7 at 'Plugins\SurveillanceExPlugin.ncp'..
+13:14: Found plugin 'Surveillance Plugin' v1.0.3.0 at 'Plugins\SurveillancePlugin.ncp'..
+13:14: Found plugin 'Tools Plugin' v1.0.0.5 at 'Plugins\ToolsPlugin.ncp'..
+13:14: Failed to open plugin at 'Plugins\VisibleMode1.1.ncp'.
+13:14: Plugin format is obsolete and could not be loaded.    en C7VrwNPzmQV2JZ16VaZ.w0FfSJPlep6hqEpFdr5.axhMjRecAU(String  )
+13:14: Establishing connection to exchange server..
+13:14: Connected to exchange server.
+13:14: Loading plugin 'Core Plugin' (d4466edc-d84f-f2d0-8dce-eb4345fd8569)..
+13:14: Loading plugin 'Dynamic Update Client' (f90ca46e-2b44-0e3f-d59d-0e71a0ff94a4)..
+13:14: [Dynamic Update Client]: Loading client files..
+13:14: [Dynamic Update Client]: Client files loaded successfully!
+13:14: Loading plugin 'Management Plugin' (8e554d9c-a2bd-1b48-e703-c5704de5a7d8)..
+13:14: Loading plugin 'Misc Tools' (d0aba983-d188-e5d9-03fa-ea3df4ea994d)..
+13:14: Loading plugin 'MultiCore' (e3b59f0e-5da9-5656-50ca-3a9c01162011)..
+13:14: Loading plugin 'NanoBrowser' (94caa1be-766d-6a44-a7be-3d14688fc136)..
+13:14: Loading plugin 'NanoCoreSwiss' (46dba22e-b7d5-7204-7d2c-b8de9e767095)..
+13:14: Loading plugin 'NanoNana' (bb1cf52d-d82c-72d9-c259-5c1cb3155589)..
+13:14: Loading plugin 'NanoStress' (a42871f1-7588-a24a-6543-93866f7d582d)..
+13:14: Loading plugin 'Network Plugin' (00592cb9-e09a-3d31-3c36-119998044e3d)..
+13:14: Starting NAT device discovery..
+13:14: Loading plugin 'Security Plugin' (5ff5348d-4be5-ff14-57a4-ee5f523ee6b3)..
+13:14: Loading plugin 'SurveillanceEx Plugin' (2441ccc7-e521-6225-4a86-bbbd0ea9b98f)..
+13:14: Loading plugin 'Surveillance Plugin' (c0ef879c-365c-dde4-7b37-20a8972cbbfb)..
+13:14: Loading plugin 'Tools Plugin' (83d05a36-970f-6690-ed4b-27b89b03c077)..
+13:14: Writing server settings..
+13:14: WindowState = Normal
+13:14: WindowBounds = {X=75,Y=75,Width=703,Height=525}
+
+Tuesday, 05 December 2017
+
+22:17: Running NanoCore version 1.2.2.0
+22:17: Reading server settings from 'settings.bin'..
+22:17: WindowState = 0
+22:17: WindowBounds = {X=75,Y=75,Width=703,Height=525}
+22:18: Loading plugin catalog..
+22:18: Failed to open plugin at 'Plugins\AIO.ncp'.
+22:18: Plugin format is obsolete and could not be loaded.    at OQrDxjGzYbFBIZhYELW.aNjtR5GvoQ3vJyyAfSm.YnB1mf9UNc(String  )
+22:18: Found plugin 'Core Plugin' v1.0.0.10 at 'Plugins\CorePlugin.ncp'..
+22:18: Found plugin 'Dynamic Update Client' v2.5.0.0 at 'Plugins\DucPlugin.ncp'..
+22:18: Found plugin 'Management Plugin' v1.0.3.1 at 'Plugins\ManagementPlugin.ncp'..
+22:18: Found plugin 'Misc Tools' v1.0.0.0 at 'Plugins\MiscTools.ncp'..
+22:18: Found plugin 'MultiCore' v1.0.0.0 at 'Plugins\MultiCore.ncp'..
+22:18: Failed to open plugin at 'Plugins\NanoBlack.ncp'.
+22:18: Plugin format is obsolete and could not be loaded.    at OQrDxjGzYbFBIZhYELW.aNjtR5GvoQ3vJyyAfSm.YnB1mf9UNc(String  )
+22:18: Found plugin 'NanoBrowser' v1.3.0.0 at 'Plugins\NanoBrowser.ncp'..
+22:18: Found plugin 'NanoCoreSwiss' v1.0.0.0 at 'Plugins\NanoCoreSwiss.ncp'..
+22:18: Found plugin 'NanoNana' v1.0.0.0 at 'Plugins\NanoNana.ncp'..
+22:18: Found plugin 'NanoProtect (Leumonic's Mod)' v2.0.0.0 at 'Plugins\NanoProtectPlugin.ncp'..
+22:18: Found plugin 'NanoStress' v1.0.0.0 at 'Plugins\NanoStress.ncp'..
+22:18: Found plugin 'Network Plugin' v1.0.2.0 at 'Plugins\NetworkPlugin.ncp'..
+22:18: Found plugin 'Security Plugin' v1.0.0.0 at 'Plugins\SecurityPlugin.ncp'..
+22:18: Found plugin 'SurveillanceEx Plugin' v1.0.1.7 at 'Plugins\SurveillanceExPlugin.ncp'..
+22:18: Found plugin 'Surveillance Plugin' v1.0.3.0 at 'Plugins\SurveillancePlugin.ncp'..
+22:18: Found plugin 'Tools Plugin' v1.0.0.5 at 'Plugins\ToolsPlugin.ncp'..
+22:18: Failed to open plugin at 'Plugins\VisibleMode1.1.ncp'.
+22:18: Plugin format is obsolete and could not be loaded.    at OQrDxjGzYbFBIZhYELW.aNjtR5GvoQ3vJyyAfSm.YnB1mf9UNc(String  )
+22:18: Establishing connection to exchange server..
+22:18: Connected to exchange server.
+22:18: Loading plugin 'Core Plugin' (d4466edc-d84f-f2d0-8dce-eb4345fd8569)..
+22:18: Loading plugin 'Dynamic Update Client' (f90ca46e-2b44-0e3f-d59d-0e71a0ff94a4)..
+22:18: [Dynamic Update Client]: Client files not found. Installing..
+22:18: [Dynamic Update Client]: Client files loaded successfully!
+22:18: Loading plugin 'Management Plugin' (8e554d9c-a2bd-1b48-e703-c5704de5a7d8)..
+22:18: Loading plugin 'Misc Tools' (d0aba983-d188-e5d9-03fa-ea3df4ea994d)..
+22:18: Loading plugin 'MultiCore' (e3b59f0e-5da9-5656-50ca-3a9c01162011)..
+22:18: Loading plugin 'NanoBrowser' (94caa1be-766d-6a44-a7be-3d14688fc136)..
+22:18: Loading plugin 'NanoCoreSwiss' (46dba22e-b7d5-7204-7d2c-b8de9e767095)..
+22:18: Loading plugin 'NanoNana' (bb1cf52d-d82c-72d9-c259-5c1cb3155589)..
+22:18: Loading plugin 'NanoStress' (a42871f1-7588-a24a-6543-93866f7d582d)..
+22:18: Loading plugin 'Network Plugin' (00592cb9-e09a-3d31-3c36-119998044e3d)..
+22:18: Starting NAT device discovery..
+22:18: Loading plugin 'Security Plugin' (5ff5348d-4be5-ff14-57a4-ee5f523ee6b3)..
+22:18: Loading plugin 'SurveillanceEx Plugin' (2441ccc7-e521-6225-4a86-bbbd0ea9b98f)..
+22:18: Loading plugin 'Surveillance Plugin' (c0ef879c-365c-dde4-7b37-20a8972cbbfb)..
+22:18: Loading plugin 'Tools Plugin' (83d05a36-970f-6690-ed4b-27b89b03c077)..
+22:18: Server has begun binding to port 54984
+22:18: Server has begun listening on port 54984
+22:18: NAT device discovery completed.
+22:19: Writing server settings..
+22:19: WindowState = Normal
+22:19: WindowBounds = {X=475,Y=318,Width=703,Height=525}
+22:19: LastSelectedTab = Hints
+
+Tuesday, 08 March 2022
+
+22:56: Running NanoCore version 1.2.2.0
+22:56: Reading server settings from 'settings.bin'..
+22:56: WindowState = 0
+22:56: WindowBounds = {X=475,Y=318,Width=703,Height=525}
+22:56: LastSelectedTab = Hints
+22:56: Loading plugin catalog..
+22:56: Failed to open plugin at 'Plugins\AIO.ncp'.
+22:56: Plugin format is obsolete and could not be loaded.    at OQrDxjGzYbFBIZhYELW.aNjtR5GvoQ3vJyyAfSm.YnB1mf9UNc(String  )
+22:56: Found plugin 'Core Plugin' v1.0.0.10 at 'Plugins\CorePlugin.ncp'..
+22:56: Found plugin 'Dynamic Update Client' v2.5.0.0 at 'Plugins\DucPlugin.ncp'..
+22:56: Found plugin 'Management Plugin' v1.0.3.1 at 'Plugins\ManagementPlugin.ncp'..
+22:56: Found plugin 'Misc Tools' v1.0.0.0 at 'Plugins\MiscTools.ncp'..
+22:56: Found plugin 'MultiCore' v1.0.0.0 at 'Plugins\MultiCore.ncp'..
+22:56: Failed to open plugin at 'Plugins\NanoBlack.ncp'.
+22:56: Plugin format is obsolete and could not be loaded.    at OQrDxjGzYbFBIZhYELW.aNjtR5GvoQ3vJyyAfSm.YnB1mf9UNc(String  )
+22:56: Found plugin 'NanoBrowser' v1.3.0.0 at 'Plugins\NanoBrowser.ncp'..
+22:56: Found plugin 'NanoCoreSwiss' v1.0.0.0 at 'Plugins\NanoCoreSwiss.ncp'..
+22:56: Found plugin 'NanoNana' v1.0.0.0 at 'Plugins\NanoNana.ncp'..
+22:56: Found plugin 'NanoProtect (Leumonic's Mod)' v2.0.0.0 at 'Plugins\NanoProtectPlugin.ncp'..
+22:56: Found plugin 'NanoStress' v1.0.0.0 at 'Plugins\NanoStress.ncp'..
+22:56: Found plugin 'Network Plugin' v1.0.2.0 at 'Plugins\NetworkPlugin.ncp'..
+22:56: Found plugin 'Security Plugin' v1.0.0.0 at 'Plugins\SecurityPlugin.ncp'..
+22:56: Found plugin 'SurveillanceEx Plugin' v1.0.1.7 at 'Plugins\SurveillanceExPlugin.ncp'..
+22:56: Found plugin 'Surveillance Plugin' v1.0.3.0 at 'Plugins\SurveillancePlugin.ncp'..
+22:56: Found plugin 'Tools Plugin' v1.0.0.5 at 'Plugins\ToolsPlugin.ncp'..
+22:56: Failed to open plugin at 'Plugins\VisibleMode1.1.ncp'.
+22:56: Plugin format is obsolete and could not be loaded.    at OQrDxjGzYbFBIZhYELW.aNjtR5GvoQ3vJyyAfSm.YnB1mf9UNc(String  )
+22:56: Establishing connection to exchange server..
+22:56: Connected to exchange server.
+22:56: Loading plugin 'Core Plugin' (d4466edc-d84f-f2d0-8dce-eb4345fd8569)..
+22:56: Loading plugin 'Dynamic Update Client' (f90ca46e-2b44-0e3f-d59d-0e71a0ff94a4)..
+22:56: [Dynamic Update Client]: Loading client files..
+22:56: [Dynamic Update Client]: Client files loaded successfully!
+22:56: Loading plugin 'Management Plugin' (8e554d9c-a2bd-1b48-e703-c5704de5a7d8)..
+22:56: Loading plugin 'Misc Tools' (d0aba983-d188-e5d9-03fa-ea3df4ea994d)..
+22:56: Loading plugin 'MultiCore' (e3b59f0e-5da9-5656-50ca-3a9c01162011)..
+22:56: Loading plugin 'NanoBrowser' (94caa1be-766d-6a44-a7be-3d14688fc136)..
+22:56: Loading plugin 'NanoCoreSwiss' (46dba22e-b7d5-7204-7d2c-b8de9e767095)..
+22:56: Loading plugin 'NanoNana' (bb1cf52d-d82c-72d9-c259-5c1cb3155589)..
+22:56: Loading plugin 'NanoStress' (a42871f1-7588-a24a-6543-93866f7d582d)..
+22:56: Loading plugin 'Network Plugin' (00592cb9-e09a-3d31-3c36-119998044e3d)..
+22:56: Starting NAT device discovery..
+22:56: Loading plugin 'Security Plugin' (5ff5348d-4be5-ff14-57a4-ee5f523ee6b3)..
+22:56: Loading plugin 'SurveillanceEx Plugin' (2441ccc7-e521-6225-4a86-bbbd0ea9b98f)..
+22:56: Loading plugin 'Surveillance Plugin' (c0ef879c-365c-dde4-7b37-20a8972cbbfb)..
+22:56: Loading plugin 'Tools Plugin' (83d05a36-970f-6690-ed4b-27b89b03c077)..
+22:56: Server has begun binding to port 54984
+22:56: Server has begun listening on port 54984
+22:56: Found UPnP device at 192.168.1.1
+22:56: Mapping port 54984 to 192.168.1.25 through UPnP on device 192.168.1.1
+22:56: NAT device discovery completed.
+22:58: Server has begun binding to port 5040
+22:58: Mapping port 5040 to 192.168.1.25 through UPnP on device 192.168.1.1
+22:58: 
+22:58: Server Exception (Server_ExceptionThrown):
+22:58: An attempt was made to access a socket in a way forbidden by its access permissions    at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at GClass22.abtn19qOCBeuuYNUKNv(Object , Object )
+   at GClass22.method_37(UInt16 ushort_1)
+22:58: 
+22:58: Server has stopped listening on port 54984
+22:58: Server has begun binding to port 5040
+22:58: Mapping port 5040 to 192.168.1.25 through UPnP on device 192.168.1.1
+22:58: 
+22:58: Server Exception (Server_ExceptionThrown):
+22:58: An attempt was made to access a socket in a way forbidden by its access permissions    at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at GClass22.abtn19qOCBeuuYNUKNv(Object , Object )
+   at GClass22.method_37(UInt16 ushort_1)
+22:58: 
+22:58: Server has begun binding to port 5040
+22:58: Mapping port 5040 to 192.168.1.25 through UPnP on device 192.168.1.1
+22:58: 
+22:58: Server Exception (Server_ExceptionThrown):
+22:58: An attempt was made to access a socket in a way forbidden by its access permissions    at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at GClass22.abtn19qOCBeuuYNUKNv(Object , Object )
+   at GClass22.method_37(UInt16 ushort_1)
+22:58: 
+22:58: Server has begun binding to port 8080
+22:58: Mapping port 8080 to 192.168.1.25 through UPnP on device 192.168.1.1
+22:58: Server has begun listening on port 8080
+22:58: Mapping port 8080 to 192.168.1.25 through UPnP on device 192.168.1.1
+23:01: Server has begun binding to port 54984
+23:01: Mapping port 54984 to 192.168.1.25 through UPnP on device 192.168.1.1
+23:01: Server has begun listening on port 54984
+23:01: Mapping port 54984 to 192.168.1.25 through UPnP on device 192.168.1.1
+23:02: Server has stopped listening on port 8080
+23:09: Server has begun binding to port 50070
+23:09: Mapping port 50070 to 192.168.1.25 through UPnP on device 192.168.1.1
+23:09: Server has begun listening on port 50070
+23:09: Mapping port 50070 to 192.168.1.25 through UPnP on device 192.168.1.1
+23:09: Server has stopped listening on port 54984
+23:11: Writing server settings..
+23:11: WindowState = 0
+23:11: WindowBounds = {X=475,Y=318,Width=703,Height=525}
+23:11: LastSelectedTab = System_Server Settings
+23:11: PortScanInterval = 30
+23:11: Port 50070 is closed and can not accept connections.
+23:11: Port 50070 is closed and can not accept connections.
+23:12: Server has begun binding to port 5040
+23:12: Mapping port 5040 to 192.168.1.25 through UPnP on device 192.168.1.1
+23:12: 
+23:12: Server Exception (Server_ExceptionThrown):
+23:12: An attempt was made to access a socket in a way forbidden by its access permissions    at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at GClass22.abtn19qOCBeuuYNUKNv(Object , Object )
+   at GClass22.method_37(UInt16 ushort_1)
+23:12: 
+23:12: Server has stopped listening on port 50070
+23:12: Server has begun binding to port 5040
+23:12: Mapping port 5040 to 192.168.1.25 through UPnP on device 192.168.1.1
+23:12: 
+23:12: Server Exception (Server_ExceptionThrown):
+23:12: An attempt was made to access a socket in a way forbidden by its access permissions    at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at GClass22.abtn19qOCBeuuYNUKNv(Object , Object )
+   at GClass22.method_37(UInt16 ushort_1)
+23:12: 
+23:12: Server has begun binding to port 49666
+23:12: Mapping port 49666 to 192.168.1.25 through UPnP on device 192.168.1.1
+23:12: 
+23:12: Server Exception (Server_ExceptionThrown):
+23:12: An attempt was made to access a socket in a way forbidden by its access permissions    at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at GClass22.abtn19qOCBeuuYNUKNv(Object , Object )
+   at GClass22.method_37(UInt16 ushort_1)
+23:12: 
+23:12: Server has begun binding to port 8080
+23:12: Mapping port 8080 to 192.168.1.25 through UPnP on device 192.168.1.1
+23:12: Server has begun listening on port 8080
+23:12: Mapping port 8080 to 192.168.1.25 through UPnP on device 192.168.1.1
+23:12: Port 8080 is closed and can not accept connections.
+23:13: Port 8080 is closed and can not accept connections.
+23:14: Port 8080 is closed and can not accept connections.
+23:14: Port 8080 is closed and can not accept connections.
+23:15: Server has stopped listening on port 8080
+23:16: Server has begun binding to port 49945
+23:16: Mapping port 49945 to 192.168.1.25 through UPnP on device 192.168.1.1
+23:16: 
+23:16: Server Exception (Server_ExceptionThrown):
+23:16: An attempt was made to access a socket in a way forbidden by its access permissions    at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at GClass22.abtn19qOCBeuuYNUKNv(Object , Object )
+   at GClass22.method_37(UInt16 ushort_1)
+23:16: 
+23:16: Server has begun binding to port 49945
+23:16: Mapping port 49945 to 192.168.1.25 through UPnP on device 192.168.1.1
+23:16: 
+23:16: Server Exception (Server_ExceptionThrown):
+23:16: An attempt was made to access a socket in a way forbidden by its access permissions    at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at GClass22.abtn19qOCBeuuYNUKNv(Object , Object )
+   at GClass22.method_37(UInt16 ushort_1)
+23:16: 
+23:16: Server has begun binding to port 49945
+23:16: Mapping port 49945 to 192.168.1.25 through UPnP on device 192.168.1.1
+23:16: 
+23:16: Server Exception (Server_ExceptionThrown):
+23:16: An attempt was made to access a socket in a way forbidden by its access permissions    at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at GClass22.abtn19qOCBeuuYNUKNv(Object , Object )
+   at GClass22.method_37(UInt16 ushort_1)
+23:16: 
+23:16: Server has begun binding to port 49944
+23:16: Mapping port 49944 to 192.168.1.25 through UPnP on device 192.168.1.1
+23:16: 
+23:16: Server Exception (Server_ExceptionThrown):
+23:16: An attempt was made to access a socket in a way forbidden by its access permissions    at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at GClass22.abtn19qOCBeuuYNUKNv(Object , Object )
+   at GClass22.method_37(UInt16 ushort_1)
+23:16: 
+23:17: Server has begun binding to port 49944
+23:17: Mapping port 49944 to 192.168.1.25 through UPnP on device 192.168.1.1
+23:17: 
+23:17: Server Exception (Server_ExceptionThrown):
+23:17: An attempt was made to access a socket in a way forbidden by its access permissions    at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at GClass22.abtn19qOCBeuuYNUKNv(Object , Object )
+   at GClass22.method_37(UInt16 ushort_1)
+23:17: 
+23:19: Server has begun binding to port 49944
+23:19: Mapping port 49944 to 192.168.1.25 through UPnP on device 192.168.1.1
+23:19: 
+23:19: Server Exception (Server_ExceptionThrown):
+23:19: An attempt was made to access a socket in a way forbidden by its access permissions    at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at GClass22.abtn19qOCBeuuYNUKNv(Object , Object )
+   at GClass22.method_37(UInt16 ushort_1)
+23:19: 
+23:27: Server has begun binding to port 8080
+23:27: Mapping port 8080 to 192.168.1.25 through UPnP on device 192.168.1.1
+23:27: Server has begun listening on port 8080
+23:27: Mapping port 8080 to 192.168.1.25 through UPnP on device 192.168.1.1
+23:27: Port 8080 is closed and can not accept connections.
+23:28: Port 8080 is closed and can not accept connections.
+23:29: Port 8080 is closed and can not accept connections.
+23:29: Port 8080 is closed and can not accept connections.
+23:30: Port 8080 is closed and can not accept connections.
+23:30: Server has stopped listening on port 8080
+23:31: Server has begun binding to port 8080
+23:31: Mapping port 8080 to 192.168.1.25 through UPnP on device 192.168.1.1
+23:31: Server has begun listening on port 8080
+23:31: Mapping port 8080 to 192.168.1.25 through UPnP on device 192.168.1.1
+23:31: Port 8080 is closed and can not accept connections.
+23:31: Port 8080 is closed and can not accept connections.
+23:32: Port 8080 is closed and can not accept connections.
+23:33: Port 8080 is closed and can not accept connections.
+23:33: Port 8080 is closed and can not accept connections.
+23:34: Port 8080 is closed and can not accept connections.
+23:35: Port 8080 is closed and can not accept connections.
+23:35: Port 8080 is closed and can not accept connections.
+23:36: Port 8080 is closed and can not accept connections.
+23:36: Server has stopped listening on port 8080
+23:36: Server has begun binding to port 60192
+23:36: Mapping port 60192 to 192.168.1.25 through UPnP on device 192.168.1.1
+23:36: Server has begun listening on port 60192
+23:36: Mapping port 60192 to 192.168.1.25 through UPnP on device 192.168.1.1
+23:37: Port 60192 is closed and can not accept connections.
+23:37: Port 60192 is closed and can not accept connections.
+23:38: Port 60192 is closed and can not accept connections.
+23:39: Port 60192 is closed and can not accept connections.
+23:39: Port 60192 is closed and can not accept connections.
+23:40: Port 60192 is closed and can not accept connections.
+23:40: Server has begun binding to port 80
+23:40: Mapping port 80 to 192.168.1.25 through UPnP on device 192.168.1.1
+23:40: Server has begun listening on port 80
+23:40: Mapping port 80 to 192.168.1.25 through UPnP on device 192.168.1.1
+23:40: Server has stopped listening on port 60192
+23:41: Port 80 is closed and can not accept connections.
+23:41: Port 80 is closed and can not accept connections.
+23:42: Port 80 is closed and can not accept connections.
+23:43: Port 80 is closed and can not accept connections.
+23:43: Port 80 is closed and can not accept connections.
+23:44: Port 80 is closed and can not accept connections.
+23:45: Port 80 is closed and can not accept connections.
+23:45: Port 80 is closed and can not accept connections.
+23:46: Port 80 is closed and can not accept connections.
+23:47: Port 80 is closed and can not accept connections.
+23:47: Port 80 is closed and can not accept connections.
+23:48: Port 80 is closed and can not accept connections.
+23:49: Port 80 is closed and can not accept connections.
+23:49: Port 80 is closed and can not accept connections.
+23:50: Port 80 is closed and can not accept connections.
+23:51: Port 80 is closed and can not accept connections.
+23:51: Port 80 is closed and can not accept connections.
+23:52: Port 80 is closed and can not accept connections.
+23:53: Port 80 is closed and can not accept connections.
+23:53: Port 80 is closed and can not accept connections.
+23:54: Port 80 is closed and can not accept connections.
+23:55: Port 80 is closed and can not accept connections.
+23:55: Port 80 is closed and can not accept connections.
+23:56: Server has stopped listening on port 80
+23:56: Server has begun binding to port 8080
+23:56: Mapping port 8080 to 192.168.1.25 through UPnP on device 192.168.1.1
+23:56: Server has begun listening on port 8080
+23:56: Mapping port 8080 to 192.168.1.25 through UPnP on device 192.168.1.1
+23:57: Port 8080 is closed and can not accept connections.
+23:57: Port 8080 is closed and can not accept connections.
+23:57: Writing server settings..
+23:57: WindowState = Normal
+23:57: WindowBounds = {X=916,Y=440,Width=703,Height=538}
+23:57: LastSelectedTab = Community Poll
+23:57: PortScanInterval = 30
+
+Wednesday, 09 March 2022
+
+00:30: Running NanoCore version 1.2.2.0
+00:30: Reading server settings from 'settings.bin'..
+00:30: WindowState = 0
+00:30: WindowBounds = {X=916,Y=440,Width=703,Height=538}
+00:30: LastSelectedTab = Community Poll
+00:30: PortScanInterval = 30
+00:30: Loading plugin catalog..
+00:30: Failed to open plugin at 'Plugins\AIO.ncp'.
+00:30: Plugin format is obsolete and could not be loaded.    at OQrDxjGzYbFBIZhYELW.aNjtR5GvoQ3vJyyAfSm.YnB1mf9UNc(String  )
+00:30: Found plugin 'Core Plugin' v1.0.0.10 at 'Plugins\CorePlugin.ncp'..
+00:30: Found plugin 'Dynamic Update Client' v2.5.0.0 at 'Plugins\DucPlugin.ncp'..
+00:30: Found plugin 'Management Plugin' v1.0.3.1 at 'Plugins\ManagementPlugin.ncp'..
+00:30: Found plugin 'Misc Tools' v1.0.0.0 at 'Plugins\MiscTools.ncp'..
+00:30: Found plugin 'MultiCore' v1.0.0.0 at 'Plugins\MultiCore.ncp'..
+00:30: Failed to open plugin at 'Plugins\NanoBlack.ncp'.
+00:30: Plugin format is obsolete and could not be loaded.    at OQrDxjGzYbFBIZhYELW.aNjtR5GvoQ3vJyyAfSm.YnB1mf9UNc(String  )
+00:30: Found plugin 'NanoBrowser' v1.3.0.0 at 'Plugins\NanoBrowser.ncp'..
+00:30: Found plugin 'NanoCoreSwiss' v1.0.0.0 at 'Plugins\NanoCoreSwiss.ncp'..
+00:30: Found plugin 'NanoNana' v1.0.0.0 at 'Plugins\NanoNana.ncp'..
+00:30: Found plugin 'NanoProtect (Leumonic's Mod)' v2.0.0.0 at 'Plugins\NanoProtectPlugin.ncp'..
+00:30: Found plugin 'NanoStress' v1.0.0.0 at 'Plugins\NanoStress.ncp'..
+00:30: Found plugin 'Network Plugin' v1.0.2.0 at 'Plugins\NetworkPlugin.ncp'..
+00:30: Found plugin 'Security Plugin' v1.0.0.0 at 'Plugins\SecurityPlugin.ncp'..
+00:30: Found plugin 'SurveillanceEx Plugin' v1.0.1.7 at 'Plugins\SurveillanceExPlugin.ncp'..
+00:30: Found plugin 'Surveillance Plugin' v1.0.3.0 at 'Plugins\SurveillancePlugin.ncp'..
+00:30: Found plugin 'Tools Plugin' v1.0.0.5 at 'Plugins\ToolsPlugin.ncp'..
+00:30: Failed to open plugin at 'Plugins\VisibleMode1.1.ncp'.
+00:30: Plugin format is obsolete and could not be loaded.    at OQrDxjGzYbFBIZhYELW.aNjtR5GvoQ3vJyyAfSm.YnB1mf9UNc(String  )
+00:30: Establishing connection to exchange server..
+00:30: Connected to exchange server.
+00:30: Loading plugin 'Core Plugin' (d4466edc-d84f-f2d0-8dce-eb4345fd8569)..
+00:30: Loading plugin 'Dynamic Update Client' (f90ca46e-2b44-0e3f-d59d-0e71a0ff94a4)..
+00:30: [Dynamic Update Client]: Client files not found. Installing..
+00:30: [Dynamic Update Client]: Client files loaded successfully!
+00:30: Loading plugin 'Management Plugin' (8e554d9c-a2bd-1b48-e703-c5704de5a7d8)..
+00:30: Loading plugin 'Misc Tools' (d0aba983-d188-e5d9-03fa-ea3df4ea994d)..
+00:30: Loading plugin 'MultiCore' (e3b59f0e-5da9-5656-50ca-3a9c01162011)..
+00:30: Loading plugin 'NanoBrowser' (94caa1be-766d-6a44-a7be-3d14688fc136)..
+00:30: Loading plugin 'NanoCoreSwiss' (46dba22e-b7d5-7204-7d2c-b8de9e767095)..
+00:30: Loading plugin 'NanoNana' (bb1cf52d-d82c-72d9-c259-5c1cb3155589)..
+00:30: Loading plugin 'NanoStress' (a42871f1-7588-a24a-6543-93866f7d582d)..
+00:30: Loading plugin 'Network Plugin' (00592cb9-e09a-3d31-3c36-119998044e3d)..
+00:30: Starting NAT device discovery..
+00:30: Loading plugin 'Security Plugin' (5ff5348d-4be5-ff14-57a4-ee5f523ee6b3)..
+00:30: Loading plugin 'SurveillanceEx Plugin' (2441ccc7-e521-6225-4a86-bbbd0ea9b98f)..
+00:30: Loading plugin 'Surveillance Plugin' (c0ef879c-365c-dde4-7b37-20a8972cbbfb)..
+00:30: Loading plugin 'Tools Plugin' (83d05a36-970f-6690-ed4b-27b89b03c077)..
+00:30: Server has begun binding to port 8080
+00:30: Server has begun listening on port 8080
+00:30: Found UPnP device at 192.168.1.1
+00:30: Mapping port 8080 to 192.168.1.25 through UPnP on device 192.168.1.1
+00:31: NAT device discovery completed.
+00:33: Port 8080 is closed and can not accept connections.
+00:34: Writing server settings..
+00:34: WindowState = Normal
+00:34: WindowBounds = {X=916,Y=440,Width=703,Height=538}
+00:34: LastSelectedTab = Community Poll
+00:34: PortScanInterval = 30
+
+Wednesday, 09 March 2022
+
+20:13: Running NanoCore version 1.2.2.0
+20:13: Reading server settings from 'settings.bin'..
+20:13: WindowState = 0
+20:13: WindowBounds = {X=916,Y=440,Width=703,Height=538}
+20:13: LastSelectedTab = Community Poll
+20:13: PortScanInterval = 30
+20:13: Loading plugin catalog..
+20:13: Failed to open plugin at 'Plugins\AIO.ncp'.
+20:13: Plugin format is obsolete and could not be loaded.    at OQrDxjGzYbFBIZhYELW.aNjtR5GvoQ3vJyyAfSm.YnB1mf9UNc(String  )
+20:13: Found plugin 'Core Plugin' v1.0.0.10 at 'Plugins\CorePlugin.ncp'..
+20:13: Found plugin 'Dynamic Update Client' v2.5.0.0 at 'Plugins\DucPlugin.ncp'..
+20:13: Found plugin 'Management Plugin' v1.0.3.1 at 'Plugins\ManagementPlugin.ncp'..
+20:13: Found plugin 'Misc Tools' v1.0.0.0 at 'Plugins\MiscTools.ncp'..
+20:13: Found plugin 'MultiCore' v1.0.0.0 at 'Plugins\MultiCore.ncp'..
+20:13: Failed to open plugin at 'Plugins\NanoBlack.ncp'.
+20:13: Plugin format is obsolete and could not be loaded.    at OQrDxjGzYbFBIZhYELW.aNjtR5GvoQ3vJyyAfSm.YnB1mf9UNc(String  )
+20:13: Found plugin 'NanoBrowser' v1.3.0.0 at 'Plugins\NanoBrowser.ncp'..
+20:13: Found plugin 'NanoCoreSwiss' v1.0.0.0 at 'Plugins\NanoCoreSwiss.ncp'..
+20:13: Found plugin 'NanoNana' v1.0.0.0 at 'Plugins\NanoNana.ncp'..
+20:13: Found plugin 'NanoProtect (Leumonic's Mod)' v2.0.0.0 at 'Plugins\NanoProtectPlugin.ncp'..
+20:13: Found plugin 'NanoStress' v1.0.0.0 at 'Plugins\NanoStress.ncp'..
+20:13: Found plugin 'Network Plugin' v1.0.2.0 at 'Plugins\NetworkPlugin.ncp'..
+20:13: Found plugin 'Security Plugin' v1.0.0.0 at 'Plugins\SecurityPlugin.ncp'..
+20:13: Found plugin 'SurveillanceEx Plugin' v1.0.1.7 at 'Plugins\SurveillanceExPlugin.ncp'..
+20:13: Found plugin 'Surveillance Plugin' v1.0.3.0 at 'Plugins\SurveillancePlugin.ncp'..
+20:13: Found plugin 'Tools Plugin' v1.0.0.5 at 'Plugins\ToolsPlugin.ncp'..
+20:13: Failed to open plugin at 'Plugins\VisibleMode1.1.ncp'.
+20:13: Plugin format is obsolete and could not be loaded.    at OQrDxjGzYbFBIZhYELW.aNjtR5GvoQ3vJyyAfSm.YnB1mf9UNc(String  )
+20:13: Establishing connection to exchange server..
+20:13: Connected to exchange server.
+20:13: Loading plugin 'Core Plugin' (d4466edc-d84f-f2d0-8dce-eb4345fd8569)..
+20:13: Loading plugin 'Dynamic Update Client' (f90ca46e-2b44-0e3f-d59d-0e71a0ff94a4)..
+20:13: [Dynamic Update Client]: Loading client files..
+20:13: [Dynamic Update Client]: Client files loaded successfully!
+20:13: Loading plugin 'Management Plugin' (8e554d9c-a2bd-1b48-e703-c5704de5a7d8)..
+20:13: Loading plugin 'Misc Tools' (d0aba983-d188-e5d9-03fa-ea3df4ea994d)..
+20:13: Loading plugin 'MultiCore' (e3b59f0e-5da9-5656-50ca-3a9c01162011)..
+20:13: Loading plugin 'NanoBrowser' (94caa1be-766d-6a44-a7be-3d14688fc136)..
+20:13: Loading plugin 'NanoCoreSwiss' (46dba22e-b7d5-7204-7d2c-b8de9e767095)..
+20:13: Loading plugin 'NanoNana' (bb1cf52d-d82c-72d9-c259-5c1cb3155589)..
+20:13: Loading plugin 'NanoStress' (a42871f1-7588-a24a-6543-93866f7d582d)..
+20:13: Loading plugin 'Network Plugin' (00592cb9-e09a-3d31-3c36-119998044e3d)..
+20:13: Starting NAT device discovery..
+20:13: Loading plugin 'Security Plugin' (5ff5348d-4be5-ff14-57a4-ee5f523ee6b3)..
+20:13: Loading plugin 'SurveillanceEx Plugin' (2441ccc7-e521-6225-4a86-bbbd0ea9b98f)..
+20:13: Loading plugin 'Surveillance Plugin' (c0ef879c-365c-dde4-7b37-20a8972cbbfb)..
+20:13: Loading plugin 'Tools Plugin' (83d05a36-970f-6690-ed4b-27b89b03c077)..
+20:13: Server has begun binding to port 8080
+20:13: 
+20:13: Server Exception (Server_ExceptionThrown):
+20:13: An attempt was made to access a socket in a way forbidden by its access permissions    at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at GClass22.abtn19qOCBeuuYNUKNv(Object , Object )
+   at GClass22.method_37(UInt16 ushort_1)
+20:13: 
+20:13: Failed binding to port 8080 and can not accept connections.
+20:13: Found UPnP device at 192.168.1.1
+20:13: Mapping port 8080 to 192.168.1.25 through UPnP on device 192.168.1.1
+20:14: NAT device discovery completed.
+20:35: Server has begun binding to port 54984
+20:35: Mapping port 54984 to 192.168.1.25 through UPnP on device 192.168.1.1
+20:35: Server has begun listening on port 54984
+20:35: Mapping port 54984 to 192.168.1.25 through UPnP on device 192.168.1.1
+20:35: Port 54984 is closed and can not accept connections.
+20:36: Port 54984 is closed and can not accept connections.
+20:37: Port 54984 is closed and can not accept connections.
+20:37: Port 54984 is closed and can not accept connections.
+20:37: Server has stopped listening on port 54984
+20:43: Writing server settings..
+20:43: WindowState = Normal
+20:43: WindowBounds = {X=726,Y=379,Width=703,Height=538}
+20:43: LastSelectedTab = Bandwidth
+20:43: PortScanInterval = 30
+
+Thursday, 10 March 2022
+
+23:23: Running NanoCore version 1.2.2.0
+23:23: Reading server settings from 'settings.bin'..
+23:23: WindowState = 0
+23:23: WindowBounds = {X=726,Y=379,Width=703,Height=538}
+23:23: LastSelectedTab = Bandwidth
+23:23: PortScanInterval = 30
+23:23: Loading plugin catalog..
+23:23: Failed to open plugin at 'Plugins\AIO.ncp'.
+23:23: Plugin format is obsolete and could not be loaded.    at OQrDxjGzYbFBIZhYELW.aNjtR5GvoQ3vJyyAfSm.YnB1mf9UNc(String  )
+23:23: Found plugin 'Core Plugin' v1.0.0.10 at 'Plugins\CorePlugin.ncp'..
+23:23: Found plugin 'Dynamic Update Client' v2.5.0.0 at 'Plugins\DucPlugin.ncp'..
+23:23: Found plugin 'Management Plugin' v1.0.3.1 at 'Plugins\ManagementPlugin.ncp'..
+23:23: Found plugin 'Misc Tools' v1.0.0.0 at 'Plugins\MiscTools.ncp'..
+23:23: Found plugin 'MultiCore' v1.0.0.0 at 'Plugins\MultiCore.ncp'..
+23:23: Failed to open plugin at 'Plugins\NanoBlack.ncp'.
+23:23: Plugin format is obsolete and could not be loaded.    at OQrDxjGzYbFBIZhYELW.aNjtR5GvoQ3vJyyAfSm.YnB1mf9UNc(String  )
+23:23: Found plugin 'NanoBrowser' v1.3.0.0 at 'Plugins\NanoBrowser.ncp'..
+23:23: Found plugin 'NanoCoreSwiss' v1.0.0.0 at 'Plugins\NanoCoreSwiss.ncp'..
+23:23: Found plugin 'NanoNana' v1.0.0.0 at 'Plugins\NanoNana.ncp'..
+23:23: Found plugin 'NanoProtect (Leumonic's Mod)' v2.0.0.0 at 'Plugins\NanoProtectPlugin.ncp'..
+23:23: Found plugin 'NanoStress' v1.0.0.0 at 'Plugins\NanoStress.ncp'..
+23:23: Found plugin 'Network Plugin' v1.0.2.0 at 'Plugins\NetworkPlugin.ncp'..
+23:23: Found plugin 'Security Plugin' v1.0.0.0 at 'Plugins\SecurityPlugin.ncp'..
+23:23: Found plugin 'SurveillanceEx Plugin' v1.0.1.7 at 'Plugins\SurveillanceExPlugin.ncp'..
+23:23: Found plugin 'Surveillance Plugin' v1.0.3.0 at 'Plugins\SurveillancePlugin.ncp'..
+23:23: Found plugin 'Tools Plugin' v1.0.0.5 at 'Plugins\ToolsPlugin.ncp'..
+23:23: Failed to open plugin at 'Plugins\VisibleMode1.1.ncp'.
+23:23: Plugin format is obsolete and could not be loaded.    at OQrDxjGzYbFBIZhYELW.aNjtR5GvoQ3vJyyAfSm.YnB1mf9UNc(String  )
+23:23: Establishing connection to exchange server..
+23:23: Connected to exchange server.
+23:23: Loading plugin 'Core Plugin' (d4466edc-d84f-f2d0-8dce-eb4345fd8569)..
+23:23: Loading plugin 'Dynamic Update Client' (f90ca46e-2b44-0e3f-d59d-0e71a0ff94a4)..
+23:23: [Dynamic Update Client]: Loading client files..
+23:23: [Dynamic Update Client]: Client files loaded successfully!
+23:23: Loading plugin 'Management Plugin' (8e554d9c-a2bd-1b48-e703-c5704de5a7d8)..
+23:23: Loading plugin 'Misc Tools' (d0aba983-d188-e5d9-03fa-ea3df4ea994d)..
+23:23: Loading plugin 'MultiCore' (e3b59f0e-5da9-5656-50ca-3a9c01162011)..
+23:23: Loading plugin 'NanoBrowser' (94caa1be-766d-6a44-a7be-3d14688fc136)..
+23:23: Loading plugin 'NanoCoreSwiss' (46dba22e-b7d5-7204-7d2c-b8de9e767095)..
+23:23: Loading plugin 'NanoNana' (bb1cf52d-d82c-72d9-c259-5c1cb3155589)..
+23:23: Loading plugin 'NanoStress' (a42871f1-7588-a24a-6543-93866f7d582d)..
+23:23: Loading plugin 'Network Plugin' (00592cb9-e09a-3d31-3c36-119998044e3d)..
+23:23: Starting NAT device discovery..
+23:23: Loading plugin 'Security Plugin' (5ff5348d-4be5-ff14-57a4-ee5f523ee6b3)..
+23:23: Loading plugin 'SurveillanceEx Plugin' (2441ccc7-e521-6225-4a86-bbbd0ea9b98f)..
+23:23: Loading plugin 'Surveillance Plugin' (c0ef879c-365c-dde4-7b37-20a8972cbbfb)..
+23:23: Loading plugin 'Tools Plugin' (83d05a36-970f-6690-ed4b-27b89b03c077)..
+23:23: Found UPnP device at 192.168.1.1
+23:23: Server has begun binding to port 54984
+23:23: Mapping port 54984 to 192.168.1.25 through UPnP on device 192.168.1.1
+23:23: Server has begun listening on port 54984
+23:23: Mapping port 54984 to 192.168.1.25 through UPnP on device 192.168.1.1
+23:23: NAT device discovery completed.
+23:25: Port 54984 is closed and can not accept connections.
+23:26: Port 54984 is closed and can not accept connections.
+23:27: Port 54984 is closed and can not accept connections.
+23:27: Port 54984 is closed and can not accept connections.
+23:28: Port 54984 is closed and can not accept connections.
+23:29: Port 54984 is closed and can not accept connections.
+23:29: Port 54984 is closed and can not accept connections.
+23:30: Port 54984 is closed and can not accept connections.
+23:31: Port 54984 is closed and can not accept connections.
+23:31: Port 54984 is closed and can not accept connections.
+23:32: Port 54984 is closed and can not accept connections.
+23:33: Port 54984 is closed and can not accept connections.
+23:33: Port 54984 is closed and can not accept connections.
+23:34: Port 54984 is closed and can not accept connections.
+23:35: Port 54984 is closed and can not accept connections.
+23:35: Port 54984 is closed and can not accept connections.
+23:36: Port 54984 is closed and can not accept connections.
+23:37: Port 54984 is closed and can not accept connections.
+23:37: Port 54984 is closed and can not accept connections.
+23:38: Port 54984 is closed and can not accept connections.
+23:39: Port 54984 is closed and can not accept connections.
+23:39: Port 54984 is closed and can not accept connections.
+23:40: Port 54984 is closed and can not accept connections.
+23:41: Port 54984 is closed and can not accept connections.
+23:41: Port 54984 is closed and can not accept connections.
+23:42: Port 54984 is closed and can not accept connections.
+23:43: Port 54984 is closed and can not accept connections.
+23:43: Server has stopped listening on port 54984
+23:43: Server has begun binding to port 54984
+23:43: Mapping port 54984 to 192.168.1.25 through UPnP on device 192.168.1.1
+23:43: Server has begun listening on port 54984
+23:43: Mapping port 54984 to 192.168.1.25 through UPnP on device 192.168.1.1
+23:43: Server has stopped listening on port 54984
+
+Friday, 11 March 2022
+
+00:19: Server has begun binding to port 54984
+00:19: Mapping port 54984 to 192.168.1.25 through UPnP on device 192.168.1.1
+00:19: Server has begun listening on port 54984
+00:19: Mapping port 54984 to 192.168.1.25 through UPnP on device 192.168.1.1
+00:20: 
+00:20: Plugin Exception [Network Plugin] (IsPortOpen):
+00:20: Unable to connect to the remote server    at System.Net.WebClient.UploadValues(Uri address, String method, NameValueCollection data)
+   at System.Net.WebClient.UploadValues(String address, NameValueCollection data)
+   at #=qAD8fBu_1QKAgcVs9lbf1mQ==.#=qyWmssNR$ADtz3zFhE15W5g==(String #=qyEnCHDYVBa1GpY5pDjtvmQ==, UInt16 #=qKRBQCSXJBys5mGpaNP8S5g==)
+00:20: 
+00:20: Port 54984 is closed and can not accept connections.
+00:21: 
+00:21: Plugin Exception [Network Plugin] (IsPortOpen):
+00:21: Unable to connect to the remote server    at System.Net.WebClient.UploadValues(Uri address, String method, NameValueCollection data)
+   at System.Net.WebClient.UploadValues(String address, NameValueCollection data)
+   at #=qAD8fBu_1QKAgcVs9lbf1mQ==.#=qyWmssNR$ADtz3zFhE15W5g==(String #=qyEnCHDYVBa1GpY5pDjtvmQ==, UInt16 #=qKRBQCSXJBys5mGpaNP8S5g==)
+00:21: 
+00:21: Port 54984 is closed and can not accept connections.
+00:23: 
+00:23: Plugin Exception [Network Plugin] (IsPortOpen):
+00:23: The operation has timed out    at System.Net.WebClient.UploadValues(Uri address, String method, NameValueCollection data)
+   at System.Net.WebClient.UploadValues(String address, NameValueCollection data)
+   at #=qAD8fBu_1QKAgcVs9lbf1mQ==.#=qyWmssNR$ADtz3zFhE15W5g==(String #=qyEnCHDYVBa1GpY5pDjtvmQ==, UInt16 #=qKRBQCSXJBys5mGpaNP8S5g==)
+00:23: 
+00:23: Port 54984 is closed and can not accept connections.
+00:24: 
+00:24: Plugin Exception [Network Plugin] (IsPortOpen):
+00:24: Unable to connect to the remote server    at System.Net.WebClient.UploadValues(Uri address, String method, NameValueCollection data)
+   at System.Net.WebClient.UploadValues(String address, NameValueCollection data)
+   at #=qAD8fBu_1QKAgcVs9lbf1mQ==.#=qyWmssNR$ADtz3zFhE15W5g==(String #=qyEnCHDYVBa1GpY5pDjtvmQ==, UInt16 #=qKRBQCSXJBys5mGpaNP8S5g==)
+00:24: 
+00:24: Port 54984 is closed and can not accept connections.
+00:25: 
+00:25: Plugin Exception [Network Plugin] (IsPortOpen):
+00:25: Unable to connect to the remote server    at System.Net.WebClient.UploadValues(Uri address, String method, NameValueCollection data)
+   at System.Net.WebClient.UploadValues(String address, NameValueCollection data)
+   at #=qAD8fBu_1QKAgcVs9lbf1mQ==.#=qyWmssNR$ADtz3zFhE15W5g==(String #=qyEnCHDYVBa1GpY5pDjtvmQ==, UInt16 #=qKRBQCSXJBys5mGpaNP8S5g==)
+00:25: 
+00:25: Port 54984 is closed and can not accept connections.
+00:26: 
+00:26: Plugin Exception [Network Plugin] (IsPortOpen):
+00:26: Unable to connect to the remote server    at System.Net.WebClient.UploadValues(Uri address, String method, NameValueCollection data)
+   at System.Net.WebClient.UploadValues(String address, NameValueCollection data)
+   at #=qAD8fBu_1QKAgcVs9lbf1mQ==.#=qyWmssNR$ADtz3zFhE15W5g==(String #=qyEnCHDYVBa1GpY5pDjtvmQ==, UInt16 #=qKRBQCSXJBys5mGpaNP8S5g==)
+00:26: 
+00:26: Port 54984 is closed and can not accept connections.
+00:28: 
+00:28: Plugin Exception [Network Plugin] (IsPortOpen):
+00:28: The operation has timed out    at System.Net.WebClient.UploadValues(Uri address, String method, NameValueCollection data)
+   at System.Net.WebClient.UploadValues(String address, NameValueCollection data)
+   at #=qAD8fBu_1QKAgcVs9lbf1mQ==.#=qyWmssNR$ADtz3zFhE15W5g==(String #=qyEnCHDYVBa1GpY5pDjtvmQ==, UInt16 #=qKRBQCSXJBys5mGpaNP8S5g==)
+00:28: 
+00:28: Port 54984 is closed and can not accept connections.
+00:29: 
+00:29: Plugin Exception [Network Plugin] (IsPortOpen):
+00:29: Unable to connect to the remote server    at System.Net.WebClient.UploadValues(Uri address, String method, NameValueCollection data)
+   at System.Net.WebClient.UploadValues(String address, NameValueCollection data)
+   at #=qAD8fBu_1QKAgcVs9lbf1mQ==.#=qyWmssNR$ADtz3zFhE15W5g==(String #=qyEnCHDYVBa1GpY5pDjtvmQ==, UInt16 #=qKRBQCSXJBys5mGpaNP8S5g==)
+00:29: 
+00:29: Port 54984 is closed and can not accept connections.
+00:30: Server has stopped listening on port 54984
+00:32: Writing server settings..
+00:32: WindowState = Normal
+00:32: WindowBounds = {X=634,Y=151,Width=703,Height=538}
+00:32: LastSelectedTab = Community Poll
+00:32: PortScanInterval = 30
+00:32: VideoFeedQuality = 8
+00:32: VideoFeedBlockSize = 5
+00:32: VideoFeedProcessingMode = 1
+00:32: VideoFeedFastInterpolation = False

